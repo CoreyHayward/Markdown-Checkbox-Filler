@@ -20,7 +20,7 @@ A simple Chrome extension that enables a right-click menu item **"Fill Markdown 
 2. Select **"Fill Markdown Checkboxes"** from the context menu.
 3. All empty checkboxes (`- [ ]`) will be filled (`- [x]`).
 
-https://github.com/user-attachments/assets/fba5df95-5b4d-409e-a186-7326c051cfaa
+https://github.com/user-attachments/assets/0d31a169-0aad-462d-9b22-40c390418cf1
 
 ## Permissions
 - This extension requires permission to access the active tab to modify text fields.
