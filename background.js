@@ -16,7 +16,6 @@ chrome.runtime.onInstalled.addListener(() => {
   });
   
   function fillCheckboxes() {
-    console.log("test");
     const focusedElement = document.activeElement;
     const text = focusedElement.value;
     const filledText = text.replace(/- \[\s\]/g, '- [x]');
