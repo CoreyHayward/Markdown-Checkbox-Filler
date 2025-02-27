@@ -8,12 +8,8 @@ A simple Chrome extension that enables a right-click menu item **"Fill Markdown 
 - Works on text areas and input fields containing markdown
 
 ## Installation
-1. Download the [latest release](https://github.com/CoreyHayward/Markdown-Checkbox-Filler/releases/).
-2. Unzip the file
-3. Open **chrome://extensions/** in your browser.
-4. Enable **Developer mode**.
-5. Click **Load unpacked** and select the extension folder.
-6. The extension is now installed and ready to use.
+Download for chromium browsers via:
+[Chrome Web Store](https://chromewebstore.google.com/detail/khkedpamgfimfnicpmoiadidfjoidbdf?utm_source=item-share-cp)
 
 ## Usage
 1. Right-click within a text area containing markdown checkboxes.
